@@ -26,4 +26,5 @@ THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ====================================================================================================
 And we implement bluetooth low energy connection by using ble chat application
 
-ble chat application license belongs to GPL v3.0
+license of BLE chat application belongs to GPL v3.0
+====================================================================================================
